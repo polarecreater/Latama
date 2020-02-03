@@ -4,3 +4,7 @@ h1{
     background-color: #ff2020;
 
 }
+body {
+    margin: 0;
+    font-size: 2em;
+}
